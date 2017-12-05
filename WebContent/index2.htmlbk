@@ -1,0 +1,207 @@
+<html>
+	<head>
+		
+		<title>Magnificent World Guns & Sports</title>
+		
+		<link rel="shortcut icon" href="logo1.png">
+		<script src="main.js"></script>
+		<script src="scroll.js"></script>
+		<link href="main.css" type="text/css" rel="stylesheet">
+		 <link rel="stylesheet" type="text/css" href="style.css">
+		<script type="text/javascript">
+			function enlarge(el) {
+				el.width = 500;
+				el.height = 440;
+			}
+			</script>
+		
+		
+	</head>
+	
+	<body>
+	
+		<div id="main">
+			<div id="container">
+				
+				<div id="logo">
+					<img src="logo1.png" width="100%">
+				</div>
+			
+				<div id="right">
+					<br/>
+					<b><center>Your Man's Friendly Companion in Sports and Defense.</b>
+					<br/>
+					<h1>MAGNIFICENT WORLD GUNS AND SPORTS, INC. was incorporated in June 2, 1992 with an authorized capital stock of P5,000,000 pesos.</h1>
+					<div id="learnmore"><a href="#container2">Learn more <font face="calibri" size="2px">>></font></a></div>
+				</div>
+			</div>
+			
+			<div id="container2">
+				<div id="outer"></div>
+				<div id="inner">
+					<div id="left2">	
+						<b>Many customers like to know about the company and people behind the products they buy.</b>
+						<br/>
+						<h1>Here we will tell you about ourselves and our company.</h1>
+						
+						<h2><br/>A MEMBER OF AFAD:</h2>
+						<img src="afad.gif" style="width: 150px;">
+						<br/>
+						<h2>SOLE AND EXCLUSIVE DISTRIBUTOR OF:</h2>
+						<img src="imi.jpg" class="logo"> <img src="beretta.png" class="logo"> <img src="smith.jpg" class="logo"> <img src="paraordinance.gif" class="logo"> <img src="jericho.gif" class="logo"> <img src="dessert.gif" class="logo"> <img src="mossberg.gif" class="logo"> <img src="armscor.jpg" class="logo">
+					</div>
+				
+					<div id="right2">
+						<div id="textcont2">
+							Our Business Philosophy
+
+						<h2>Our business' objective is to provide a high quality product and reliable service for our customers. We hope you'll enjoy visiting our web site and using our products as much as we enjoyed providing them for you.</h2>
+						</div>
+						<a href="home"></a>
+						<div id="textcont2">
+							Our Company
+
+						<h2>This is where you can learn about our company and its history. We have been interested in starting our own business for many years and are excited to finally have reached that goal. Taking our business to the web makes the process even more exciting.</h2>
+						</div>
+						<div id="textcont2">
+							Our Employees
+						<h2>Employees play an important role in any business. Here is where we get a chance to tell you a little about ourselves. We may talk about our families, interests, and what we do in our free time. We try to bring our passion for life to you through our business and this web site. We may even provide a link to our personal web site to tell you more about ourselves.</h2>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+
+			<div id="container3">
+				<div id="outer"></div>
+				<div id="inner">
+					<div id="left8">
+						Products</div>
+						
+						
+				</div>
+			</div>
+			
+			<div id="container4">
+				<div id="outer"></div>
+				<div id="inner">
+					<div id="left8">
+					On this page we'll provide detailed directions or a map to our location. Please stop by and visit if you are in the area.
+					<br/><br/><center><img src="map.jpg" width="50%"></center>
+					</div>
+				</div>
+			</div>
+			
+			<div id="container5">
+				<div id="outer"></div>
+				<div id="inner">
+					<div id="left8">We'll explain our current business and ordering policies on this page.
+					</div>
+					<div id="left4">
+						Shipping and Handling
+						<br/>
+						<h2>We attempt to ship your order as soon as we receive it. 
+						<br/><br/>
+						We offer the following shipping methods: 
+						<br/><br/>
+						Standard UPS Ground 
+						<br/>UPS Second Day 
+						<br/>UPS Overnite 
+						<br/><br/>
+						This section may include the cost of each form of delivery as we update our site.</h2>
+					</div>
+					<div id="right4">
+						Returns
+						<br/>
+						<h2>Customers often ask what our return policy is. We aim for complete customer satisfaction. If you are not completely happy with your purchase, we want to hear about it. Let us know if something is wrong and we will do what we can to make it right.
+						<br/><br/>We may also provide a list of credit cards that we accept on this page.
+						</h2>
+					</div>
+					
+				</div>
+			</div>
+						
+			<div id="container6">
+				<div id="outer2"></div>
+				<div id="inner">
+					<div id="left8">News & Articles
+					</div>
+					<div id="left3">
+						History of Firearms 
+						<h3>A firearm is a weapon that uses the force of an explosive propellant to project a missile. Firearms, or small arms, are distinguished by caliber (the width of the barrel opening), and comprise weapons up to and including those of .60 caliber (0.6-in/15.24-mm bore) and all gauges of SHOTGUN.</h3>
+						Early Firearms
+						<h3>The precise origin of firearms is unknown, although they were certainly in use by the early 14th century and were fairly common in Europe by mid-century. These early guns were little more than large-caliber tubes of wrought iron or cast bronze, closed at one end and loaded by placing GUNPOWDER and projectile in the muzzle, or open end. They were fired by touching a burning wick, or match, to the powder at a "touch-hole" bored in the top of the barrel. To make certain that the powder would ignite, a recess was incised around the hole into which additional powder--the primer--was poured.</h3>
+						Firing Mechanism
+						<h3>The first major improvement in small arms was the introduction of a mechanical firing mechanism, or lock, which lowered the match to the touch-hole with a pull of the trigger. This matchlock improved accuracy by permitting the gunner to concentrate on aiming the weapon rather than having to guide the match to the primer. In use by the early 15th century, matchlock guns were the first small arms to have a significant impact on the conduct of warfare. Matchlock mechanisms became increasingly sophisticated over the next two centuries, but all required a smoldering match to ignite the primer. The principle of self-ignition was introduced in the early 16th century with the invention of the wheel-lock, which fired the powder by mechanically generated sparks. Wheel-locks were the weapon of choice for the cavalrymen of the time. The problem of protecting the primer from rain while making it easy to fire was partially solved by the development of the flash pan, a small covered dish that held the primer. The invention of the flintlock improved on the flash-pan design. The flintlock was a spark-generating mechanism in which a flint, actuated by the trigger, struck the metal handle of the pan cover, at the same time pushing the cover back so that the powder was exposed to receive the sparks. The flintlock was the dominant ignition system from the early 1600s. The British "Brown Bess" MUSKET was introduced in the 1690s and remained in service without significant modification until the 1840s. Rifling Smoothbore muskets were notorious for their short range and poor accuracy. Seeking to improve performance, gun makers etched spiral grooves, or rifling, inside the musket barrel. The grooving imparted a spin to the projectile, thus stabilizing its trajectory. Rifles became popular with hunters in both Europe and America, but they were impractical for most military uses because they were difficult to load. In 1849 the French army captain Claude Minie invented the conical minie ball, which was easily dropped down the barrel of a rifled musket but expanded to engage the rifling when the weapon was fired. Rifles using expandable bullets had four times the range and accuracy of the smoothbore musket. Their introduction to the battlefield began a new and bloody era of warfare.</h3>
+						Metallic Cartridges
+						<h3>The percussion cap, invented in the early 19th century, provided for more reliability than had earlier ignition mechanisms. A small copper cup containing an explosive charge that ignited when it was struck by a small hammer (later, a firing pin), the percussion cap was soon attached directly to metallic cartridges containing gunpowder, thus joining the ignition system, propellant, and projectile in one easily loaded package. Because the metallic cartridge achieved a gas-tight seal with the barrel, all of the gases generated by the gunpowder explosion were channeled forward, to propel the cartridge, and none could escape to the rear and into the face of the shooter. Breech-loading using loose powder had been impractical, since the gases escaped back into the action. The invention of the cartridge led to the fabrication of the first practical breech-loading weapons. By the late 1860s the muzzle-loader had become obsolete. Ammunition magazines, which could hold many cartridges, and other quick-loading mechanisms were devised for breech-loaders in the last half of the 19th century, producing repeating rifles capable of rapid, accurate fire even at long range.</h3>
+						Machine Guns
+						<h3>Attempts to automate the loading and firing processes resulted in the development, in the 1860s, of the first machine guns. Successful designs were usually multibarreled, crank-operated weapons, of which the Gatling is the most famous. In 1884, Hiram S. Maxim invented a gun that loaded, fired, and extracted spent cartridges using the energy of the weapon's recoil. The Maxim gun, which fired as long as the trigger was held down and the ammunition lasted, was the first true automatic weapon. Powerful, "smokeless powder" propellants used from the 1890s allowed the machine gun to fire repeatedly without fouling the weapon, and reinforced a trend toward smaller-caliber bullets. The automatic machine gun had a devastating effect on the armies of World War I, driving them into trenches and forcing the final abandonment of linear offensive tactics. The military had to devise new tactical and technological systems to overcome the dominance of the machine gun-equipped defender. Part of the solution was to make automatic weapons light enough to be easily carried by one soldier in an attack. A number of man-portable light machine guns were introduced toward the end of World War I. Submachine guns, firing short-range pistol ammunition, were also used to boost the firepower of the attacker.</h3>
+						Assault Rifles
+						<h3>The trend toward lighter machine guns and automatic rifles continued during World War II. The lighter a weapon was made, however, the more difficult it was to control during automatic fire. In 1943 the Germans introduced the first true assault rifle, an automatic weapon that used mid-sized cartridges that attained ranges approaching those of standard rifle ammunition but produced considerably less recoil. The Soviet Kalashnikov rifle (AK-47) and the U.S. M-16 are contemporary assault rifles. They are fully- and semi-automatic and are capable of accurate rapid fire. Most of the world's armies have adopted automatic rifles. Current research focuses on decreasing weapon weight through the use of plastic parts, smaller or "caseless" ammunition, and burst-limiting mechanisms that can restrict the number of rounds fired with one pull of the trigger.</h3>
+					</div>
+				</div>
+			</div>
+			
+			<div id="container7">
+				<div id="outer"></div>
+				<div id="inner">
+					<div id="left8">Events
+					<br/><br/><center><img src="event.jpg" width="25%">
+					<br/><h1>THE FINAL SHOW of 2012</h1></center>
+					</div>
+				</div>
+			</div>
+			
+						
+			<div id="container8">
+				<div id="outer"></div>
+				<div id="inner">
+					<div id="left8">For more information and inquiries about our products, visit any of our branches or use any of the contact information below.
+					</div>
+					<div id="left4">
+						<br/><br/>Main Office
+						<br/>
+						<h2>#3 Lower G/F, New Farmers Plaza Araneta Center, Cubao, Quezon City, Philippines.
+						<br/><br/>Tel. Nos. (02)-912-7177 / (02)-4017352 
+						<br/><br/>
+						Just click this address to send us e-mail:
+						<br/>
+						mwgs@info.com.ph
+						<br/><br/>
+						Or give us a call at (02)-912-7177/ (02)-4017352</h2>
+					</div>
+					<div id="right4">
+						<br/><br/>	
+						Provincial Branch
+						<br/>
+						<h2>#26 Palaris St. San Carlos, Pangasinan
+						<br/>Tel. nos.: (075-69) 533322406 / (07569) 5087-88
+						<br/><br/>
+						Related Links:
+						<br/>http://info.com.ph/~mwgs
+						<br/>http://universalweapons.tripod.com
+						</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="menu">
+		<table id="a" BORDER=1 CELLSPACING=1 RULES=COLS FRAME=VSIDES>
+			<tr>
+				<td><a href="#container">Home</a></td>
+				<td><a href="#container2">About Us</a></td>
+				<td><a href="#container3">Products and Services</a></td>
+				<td><a href="#container4">Map</a></td>
+				<td><a href="#container5">Gunsmithing Services</a></td>
+				<td><a href="#container6">News and Articles</a></td>
+				<td><a href="#container7">Events</a></td>
+				<td><a href="#container8">Contact Us</a></td>
+			</tr>
+		</table>
+		</div>
+	
+	</body>
+	
+</html>

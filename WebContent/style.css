@@ -1,0 +1,6 @@
+#thumbs { width:200px; position: absolute; left:10%; top: 27%; }
+#thumbs a { margin-bottom:31px; display:block; }
+#thumbs a img { border:none; }
+#viewer { width:600px; height:400px; left: 40%; top: 27%; overflow:hidden; position:relative; border:1px solid #000; }
+#slide { position:absolute; top:0; height:400px; width:600px; }
+#slide img {float:left; width:100%;}
